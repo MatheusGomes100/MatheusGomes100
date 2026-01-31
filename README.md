@@ -10,8 +10,8 @@
 <br>
 
 <p height="180em">
-  <img src="https://github-readme-stats-chi-olive-62.vercel.app/api?username=MatheusGomes100&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-chi-olive-62.vercel.app/api/top-langs/?username=MatheusGomes100&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats-chi-olive-62.vercel.app/api?username=MatheusGomes100&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-chi-olive-62.vercel.app/api/top-langs/?username=MatheusGomes100&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Langs" />
 </p>
 
 ### Estudando
