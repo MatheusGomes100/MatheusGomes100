@@ -33,4 +33,6 @@
 <a href = "mailto:msamtosgomes42@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>  
 
+<img src="https://raw.githubusercontent.com/MatheusGomes100/MatheusGomes100/output/snake.svg" alt="Snake animation" />
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=414868&height=120&section=footer" alt="footer"/>
