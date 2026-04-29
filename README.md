@@ -6,7 +6,7 @@
 
 <p align="justify"> Atualmente cursando o <b>Técnico em Informática para Internet</b> no <b>IFSP Campus Capivari</b>, estou no segundo ano da minha formação técnica integrada ao ensino médio. Sou um entusiasta da <b>Engenharia de Software</b>, com foco dedicado ao ecossistema <b>Java</b> e ao desenvolvimento de soluções lógicas e estruturadas. Tenho como meta profissional evoluir para o perfil <b>Fullstack</b>, unindo a robustez do backend com a versatilidade do frontend para criar aplicações completas. Sou movido pelo desafio constante de transformar teoria acadêmica em projetos reais e inovadores. </p>
 
-## Estatísticas
+## 
 <br>
 
 <p height="180em">
